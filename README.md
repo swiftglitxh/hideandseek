@@ -46,4 +46,4 @@ you@pc: hideandseek.py
 ```
 
 ## 📚 Langauges & Libraries Used
-![python](https://img.shields.io/badge/Language-Python-blue?logo=icloud&color=white&logoColor=white)&nbsp;&nbsp;![python](https://img.shields.io/badge/Library-Requests-blue?logo=BookStack&logoColor=white)
+![python](https://img.shields.io/badge/Language-Python-blue?logo=icloud&color=white&logoColor=white)&nbsp;&nbsp;![python](https://img.shields.io/badge/Library-Requests-blue?logo=BookStack&logoColor=white)&nbsp;&nbsp;![python](https://img.shields.io/badge/Library-Argparse-red?logo=BookStack&logoColor=white)
