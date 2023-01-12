@@ -52,5 +52,13 @@ websites = [
 'https://www.habbo.com/profile/',
 'https://www.plurk.com/',
 'https://www.geni.com/',
-'https://www.couchsurfing.com/people/'
-]
+'https://www.couchsurfing.com/people/',
+'https://www.douyin.com/search/',
+'https://www.quora.com/search?q=',
+'https://imgur.com/search?q=',
+'https://www.behance.net/',
+'https://9gag.com/u/',
+'https://www.namasha.com/search?q=',
+'https://ask.fm/',
+'https://skyrock.com/search/articles/?q=',
+'https://gab.com/search/people?q=']
