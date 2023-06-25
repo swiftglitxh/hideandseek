@@ -13,13 +13,16 @@
 
 ## ⌨️ Commands
 ```
-usage: hideandseek.py [-h] [-v]
+usage: hideandseek.py [-h] [-v] [-s] [-o FILE]
 
 HideAndSeek Flags
 
 options:
   -h, --help  show this help message and exit
   -v          Verbose
+  -o FILE, --output FILE' Output file path
+  -s, --silent' Silent mode
+]
 ```
 
 ### 🎥 Example 
