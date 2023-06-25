@@ -1,8 +1,3 @@
-![hideandseek (1)](https://user-images.githubusercontent.com/72777943/194717177-761f39ad-376d-4783-b426-dadceca01544.png)
-
-## 👁 Hideandseek Preview 
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/72777943/194717665-1fb16b59-b5c5-4aaf-b94c-1ecddf279b58.gif)
 
 ## 👓 What is HideAndSeek?
 ##### Hideandseek is a small tool developed to scan for a username on multiple platforms.
@@ -18,14 +13,13 @@
 
 ## ⌨️ Commands
 ```
-usage: hideandseek.py [-h] [-v] [--wildcard]
+usage: hideandseek.py [-h] [-v]
 
 HideAndSeek Flags
 
 options:
   -h, --help  show this help message and exit
   -v          Verbose
-  --wildcard  Returns all as True
 ```
 
 ### 🎥 Example 
