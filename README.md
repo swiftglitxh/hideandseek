@@ -1,5 +1,6 @@
-# HIDEANDSEEK (beta V0.7) 
-![hideandseek (1)](https://user-images.githubusercontent.com/72777943/194717177-761f39ad-376d-4783-b426-dadceca01544.png)
+# HIDEANDSEEK (beta V0.8) 
+![hideandseekv0 8](https://github.com/swiftglitxh/hideandseek/assets/72777943/9c9c8d2d-5981-44c4-8ec2-3fc2d80a7846)
+
 ## 👓 What is HideAndSeek?
 
 This tool is called "HideAndSeek." It is a Python script that allows you to scan multiple websites for a specific username. The script takes a username as input and searches for its presence on various platforms or websites. It uses the `requests` library to send HTTP requests to each website and checks if the username exists in the response.
@@ -47,30 +48,13 @@ options:
   -s, --silent' Silent mode
 ]
 
-## UPDATES 0.7
+## UPDATES 0.8
 
 The recent updates to the script include the following:
 
-`1.` Added pickle support: The script now uses the pickle module to store the collected data. It saves the website and corresponding username in a database file named "database.pickle".
-
-`2.` Improved error handling: The script includes better error handling for cases such as unavailable websites or encountered errors during scanning. It provides informative error messages to the user.
-
-`3.` Command line arguments: An argument parser is implemented using the argparse module. It allows users to specify command line options such as verbosity and output file path. The -v or --verbose option enables verbose output, providing more details during scanning. The -s or --store option allows users to specify the output file path to store the collected data.
-
-`4.` Dependency installation: The script checks if the fake_useragent library is installed. If not found, it prompts the user to install it automatically.
-
-`5.` Menu enhancements: The main menu of the script now includes additional options. Users can choose to show the collected database, destroy the database, or exit the script.
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Improved user experience: The script provides a user-friendly interface with colorful banners and informative messages. It enhances the overall experience while scanning websites for a specific username.**
-
-Feel free to explore the updated script and leverage the new features to perform efficient username scanning across multiple websites.
-
-Note: Please ensure you have the required dependencies installed, including the fake_useragent library. You can install it by running pip install fake_useragent before running the script.
-
-For more information or to report any issues, please contact the me, SwiftGlitxh, on Twitter at https://twitter.com/swiftglitxh.
-
-Enjoy using HideAndSeek to uncover usernames across the web!
+`1` More websites have been added into the `links.py` 
+`2` `-D/--deep` argument has been added. 
+`3` Scraping websites such as `twitch` `github` `Steam` and more 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🎥 Example 
