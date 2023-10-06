@@ -281,7 +281,7 @@ class Social:
 
 def webcam_checker():
     # to search
-    query = "inurl:'webcam xp 6'"
+    query = 'intitle:"webcamXP 5"'
 
     for j in search(query, tld="co.in", num=10, stop=10, pause=2):
         print(j)
